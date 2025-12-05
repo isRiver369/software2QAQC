@@ -7,7 +7,3 @@ class Calculadora:
         if b == 0:
             raise ValueError("División por cero no permitida")
         return a / b
-
-# añadiendo comentario
-# añadiendo segundo comentario
-# añadiendo tercer comentario
