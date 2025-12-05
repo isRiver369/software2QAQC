@@ -7,3 +7,4 @@ class Calculadora:
         if b == 0:
             raise ValueError("División por cero no permitida")
         return a / b
+#añadiendo segundo comentario QC final
