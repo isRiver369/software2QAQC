@@ -6,5 +6,4 @@ class Calculadora:
     def divide(self, a, b):
         if b == 0:
             raise ValueError("División por cero no permitida")
-        return a / b + 1
-#provocando error
+        return a / b 
